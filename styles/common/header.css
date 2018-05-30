@@ -1,0 +1,38 @@
+header {
+	margin-left: -0.5%;
+	margin-right: -0.5%;
+	margin-top: -0.5%;
+	padding: 1%;
+}
+
+header.home {
+	background-color: #000000;
+}
+
+header.news {
+	background-color: #CD3135;
+}
+
+header.products {
+	background-color: #4A51A6;
+}
+
+header.downloads {
+	background-color: #8C28C3;
+}
+
+header.wiki {
+	background-color: #FF9434;
+}
+
+.headertitle {
+	font-family: 'Patua One', cursive;
+	font-size: 50px;
+	color: #FFFFFF;
+	margin-left: 2%;
+	text-decoration: none;
+}
+
+.headertitle:hover {
+	text-decoration: underline;
+}

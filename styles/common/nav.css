@@ -1,0 +1,48 @@
+nav {
+	margin-top: 0.03%;
+	margin-left: -0.49%;
+	margin-right: -0.49%;
+	padding: 0.5%;
+}
+
+nav.home {
+	background-color: #000000;
+}
+
+nav.news {
+	background-color: #CD3135;
+}
+
+nav.products {
+	background-color: #4A51A6;
+}
+
+nav.downloads {
+	background-color: #8C28C3;
+}
+
+nav.wiki {
+	background-color: #FF943C;
+}
+
+.navlink {
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: 22px;
+	font-family: 'Exo 2', 'san-serif';
+	margin-left: 1%;
+	cursor: pointer;
+}
+
+.navlink:hover {
+	font-weight: 800;
+}
+
+#signup {
+	float: right;
+	margin-right: 1%;
+}
+
+#login {
+	float: right;
+}
